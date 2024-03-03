@@ -31,3 +31,6 @@ It receives an initial message from the server and prints it.
 ### Communication Loop:
 
 It enters a loop where the client can input messages, send them to the server, and receive and print responses from the server.
+
+
+##### the end
