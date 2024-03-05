@@ -107,3 +107,9 @@ for(;;) {<br>
 Enters an infinite loop to continuously receive messages from the client, print them, and send an acknowledgment back to the client.
 
 Note: The bzero function is used to set the buffer to zero, and perror is used to print error messages associated with the last system call that set errno.
+
+
+##### N/B 
+best compiled using gcc
+gcc server.c -o server
+./server
