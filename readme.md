@@ -30,7 +30,7 @@ The main function takes command-line arguments: argc (argument count) and argv (
 </code>
 
 <p> Checks if the program is run with the correct number of command-line arguments. It expects one argument, the port number.
-ignore this statement: also this part
+ignore this statement: also this part,,
 </p>
 
 ## Socket Creation:
