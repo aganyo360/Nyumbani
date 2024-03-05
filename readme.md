@@ -18,7 +18,7 @@ These are the necessary header files for socket programming in C. They include d
 
     int main(int argc, char *argv[]) {
 
-The main function takes command-line arguments: argc (argument count) and argv (argument vector).
+The main function takes command-line arguments: argc (argument count) and argv (argument vector)
 
 ### Command-line Argument Check:
 
@@ -30,6 +30,7 @@ The main function takes command-line arguments: argc (argument count) and argv (
 </code>
 
 <p> Checks if the program is run with the correct number of command-line arguments. It expects one argument, the port number.
+ignore this statement
 </p>
 
 ## Socket Creation:
