@@ -110,6 +110,7 @@ Note: The bzero function is used to set the buffer to zero, and perror is used t
 
 
 ##### N/B 
-best compiled using gcc
+best compiled using gcc 
+or linux terminal
 gcc server.c -o server
-./server
+./server  
